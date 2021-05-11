@@ -1,0 +1,27 @@
+element.style {
+    background-image: url('butterfly.jpg');
+
+}
+#home {
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: difference;
+    align-items: center;
+    display: flex;
+    margin: 10px auto;
+    justify-content: center;
+    flex-direction: column;
+}
+#contact {
+    background-image: url('bg.jpg');
+    background-blend-mode: difference;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
